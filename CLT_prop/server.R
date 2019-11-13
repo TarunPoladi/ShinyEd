@@ -4,7 +4,6 @@ library(shiny)
 library(openintro)
 library(gridExtra)
 library(BHH2)
-
 seed = as.numeric(Sys.time())
 
 shinyServer(function(input, output) {
