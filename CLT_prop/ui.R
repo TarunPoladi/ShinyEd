@@ -3,7 +3,6 @@ library(shiny)
 shinyUI(pageWithSidebar(
   
   headerPanel("Central Limit Theorem for Proportions"),
-  
   sidebarPanel(
     
     sliderInput("n", 
