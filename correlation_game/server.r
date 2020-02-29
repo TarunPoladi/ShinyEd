@@ -1,5 +1,4 @@
 #server.R
-
 install.packages("ggplot2")
 install.packages("ellipse")
 require(shiny)
