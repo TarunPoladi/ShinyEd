@@ -6,7 +6,6 @@ require(shiny)
 require(ggplot2)
 require(ellipse)
 
-
 shinyUI(fluidPage(
   
   tags$head(
